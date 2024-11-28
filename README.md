@@ -1,4 +1,4 @@
--# 👋 Hi, I’m **Bhanwi S**!
+- 👋 Hi, I’m **Bhanwi S**!
 
 - 👀 I’m passionate about **coding and development**—constantly learning and building in the world of **front-end**.
 - 🌱 Currently diving deeper into **HTML**, **CSS**, **JavaScript**, and **React** to level up my skills.
